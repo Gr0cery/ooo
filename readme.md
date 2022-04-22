@@ -3,6 +3,10 @@
 https://leetcode-cn.com/u/XRQK89eaXB/
 
 
+
+![力扣数据](https://stats.justsong.cn/api/leetcode?username=XRQK89eaXB&cn=true)
+
+
 <!-- 
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=XRQK89eaXB&theme=wtf&extension=activity)
  

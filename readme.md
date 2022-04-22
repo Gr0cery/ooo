@@ -1,3 +1,4 @@
+![我的 LeetCode 数据](https://stats.justsong.cn/api/leetcode/?username=XRQK89eaXB&cn_username=XRQK89eaXB)
 
 https://leetcode-cn.com/u/XRQK89eaXB/
 
